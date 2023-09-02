@@ -29,4 +29,5 @@ I'm Abdulaziz Isa, a Computer Science and Engineering student with a passion for
 - ⚡ Fun fact: I love debugging code and finding elegant solutions to complex problems!
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-isa-1696b027a/)
 Happy coding! 🚀
