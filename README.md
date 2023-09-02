@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Abdulazizgr/Abdulazizgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there! 👋
+
+
 
 I'm Abdulaziz Isa, a Computer Science and Engineering student with a passion for competitive programming, AI, Python, and Java.
 
