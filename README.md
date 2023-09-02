@@ -25,6 +25,7 @@ I'm Abdulaziz Isa, a Computer Science and Engineering student with a passion for
 - 👯 Looking to collaborate on: AI, machine learning, or web development projects
 - 🤔 Open to contributions and collaboration in the field of AI and machine learning
 - 💬 Ask me about: Python or anything programming-related
+- 📫 How to reach me: [Email](mailto:abdulazizisa579@gmail.com), [Telegram](https://t.me/zubmua)
 - ⚡ Fun fact: I love debugging code and finding elegant solutions to complex problems!
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
