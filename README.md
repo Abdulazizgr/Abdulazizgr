@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Isa</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1NRE4KHF7O33X7c0sjnfborqMiNpV-5ZS/view?usp=drive_link">
+<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizgr&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizgr" /> </p>
 
 - 🔭 I’m currently working on **Problem Solving and Web Development**
