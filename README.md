@@ -11,7 +11,7 @@
 
 - 💬 Feel free to ask me about **Python or anything related to programming.**
 
--  📫 How to reach me: [Email](mailto:abdulazizisa579@gmail.com) | [Telegram @zubmua](https://t.me/zubmua)
+-  📫 How to reach me: [Email](mailto:abdulazizisa579@gmail.com) | [Telegram](https://t.me/zubmua)
 
 
 - ⚡ Fun fact **I love debugging code and finding elegant solutions to complex problems!**
