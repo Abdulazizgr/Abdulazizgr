@@ -5,13 +5,14 @@
 
 - 🔭 I’m currently working on **Problem Solving and Web Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **web development and Python projects.**
 
-- 💬 Ask me about **Python or anything programming-related**
+- 💬 Feel free to ask me about **Python or anything related to programming.**
 
-- 📫 How to reach me **[Email](mailto:abdulazizisa579@gmail.com) or on [Telegram](https://t.me/zubmua) ↗ @zubmua**
+-  📫 How to reach me: [Email](mailto:abdulazizisa579@gmail.com) | [Telegram @zubmua](https://t.me/zubmua)
+
 
 - ⚡ Fun fact **I love debugging code and finding elegant solutions to complex problems!**
 
