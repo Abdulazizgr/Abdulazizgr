@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Problem Solving and Web Development**
 
-- 🌱 I’m currently learning **MERN stack**
-
 - 👯 I’m looking to collaborate on **web development and Python projects.**
 
 - 💬 Feel free to ask me about **Python or anything related to programming.**
