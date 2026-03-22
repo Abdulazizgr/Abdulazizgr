@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizgr&locale=en&layout=compact&langs_count=8&cache_seconds=1800" alt="abdulazizgr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizgr&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=1800" alt="abdulazizgr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizgr&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" alt="abdulazizgr" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=abdulazizgr&theme=tokyonight&v=2" alt="abdulazizgr" /></p>
