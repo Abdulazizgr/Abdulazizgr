@@ -26,6 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizgr&locale=en&layout=compact&langs_count=8&cache_seconds=1800" alt="abdulazizgr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizgr&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" alt="abdulazizgr" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizgr&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" alt="abdulazizgr" /></p> -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/0c0295277661f080800897455b275f598aef961b3d3ea25a9ff66910cd60bc7c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616264756c617a697a67722673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" />
+</p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=abdulazizgr&theme=tokyonight&v=2" alt="abdulazizgr" /></p>
