@@ -1,4 +1,4 @@
-why this things are like in the image i need to be row <h1 align="center">Hi 👋, I'm Abdulaziz Isa</h1>
+<h1 align="center">Hi 👋, I'm Abdulaziz Isa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizgr&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizgr" /> </p>
