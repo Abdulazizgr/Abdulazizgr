@@ -60,10 +60,13 @@ I am a software engineer passionate about building **end-to-end products** that 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulazizgr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazizgr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulazizgr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" width="400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazizgr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="300" />
+
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Abdulazizgr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="710" />
+
+  <img src="https://streak-stats.demolab.com/?user=Abdulazizgr&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="710" />
 </div>
 
 ---
