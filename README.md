@@ -66,7 +66,7 @@ I am a software engineer passionate about building **end-to-end products** that 
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=Abdulazizgr&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="710" />
+  <img src="https://streak-stats.demolab.com/?user=Abdulazizgr&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" width="710" />
 </div>
 
 ---
